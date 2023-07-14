@@ -57,9 +57,9 @@
   --home-icon: url('https://i.imgur.com/eegHIow.png');
   --home-position: center;
   --home-size: 34px;
-  --channel-unread: #00000000;
-  --channel-color: rgb(0,0,0,0);
-  --muted-color: rgba(255,255,255,0.1);
+  --channel-unread: #FBE7FF;
+  --channel-color: rgb(196,170,200,1);
+  --muted-color: rgb(106,91,109,1);
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
